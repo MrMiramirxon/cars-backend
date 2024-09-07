@@ -5,29 +5,9 @@ const router = express.Router()
 router.get("/all",(req,res) => {
     res.send("dsfsdf")
 })
-router.get("/all",(req,res) => {
-    res.send("dsfsdf")
+router.get("/bmw",(req,res) => {
+    res.send("bmw berildi")
 })
-router.get("/all",(req,res) => {
-    res.send("dsfsdf")
-})
-router.get("/all",(req,res) => {
-    res.send("dsfsdf")
-})
-router.get("/all",(req,res) => {
-    res.send("dsfsdf")
-})
-router.get("/all",(req,res) => {
-    res.send("dsfsdf")
-})
-router.get("/all",(req,res) => {
-    res.send("dsfsdf")
-})
-router.get("/all",(req,res) => {
-    res.send("dsfsdf")
-})
-router.get("/all",(req,res) => {
-    res.send("dsfsdf")
-})
+
 
 export default router
